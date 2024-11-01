@@ -1,8 +1,8 @@
-![I am titu699](https://github.com/titu699/titu699/blob/main/code.png)
+![I am harun181](https://github.com/titu699/titu699/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Titu</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Currently learner of Fronted Developer</h4>
 
 <div align="center">
 
